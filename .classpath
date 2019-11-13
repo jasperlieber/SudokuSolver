@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SudokuSolver1/gen"/>
+	<classpathentry kind="src" path="SudokuSolver1/src"/>
+	<classpathentry kind="output" path="SudokuSolver1/bin"/>
+</classpath>
