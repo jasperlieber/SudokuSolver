@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Sudoku</string>
+    <string name="app_name">Sudoku Solver</string>
+	<string name="main_title">Sudoku Solver</string>
+	<string name="continue_laberl">Continua</string>
+	<string name="new_label">New</string>
+	<string name="about_label">About</string>
+	<string name="exit_label">Exit</string>
+	<string name="about_title">About Sudoku Solver 0.1 </string>
+	<string name="about_text">Sudoku Solver solves low and medium difficulty level sudokus. THIS IS AN ALPHA, so expect bugs and low performance, please. At the moment it uses only a very simple backtrack algorithm, I\u0027ll add more features and optimizations as soon as possible.\n\nFor further information please visit http://android.drowne.com</string>
+	<string name="game_title">Sudoku</string>
+	<string name="no_moves_label">No moves</string>
+	<string name="keypad_title">Insert:</string>
+	<string name="solve_label">Solve</string>
+	<string name="restart_label">Clear</string>
+	<string name="result">SUDOKU SOLVED! backtracks: </string>
+	<string name="noresult">No solution found! T_T</string>
+	
+</resources>

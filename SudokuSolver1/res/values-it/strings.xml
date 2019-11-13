@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Sudoku</string>
+    <string name="app_name">Sudoku Solver</string>
+	<string name="main_title">Sudoku Solver</string>
+	<string name="continue_laberl">Continua</string>
+	<string name="new_label">Nuovo</string>
+	<string name="about_label">Info</string>
+	<string name="exit_label">Esci</string>
+	<string name="about_title">Informazioni su Sudoku Solver 0.1 </string>
+	<string name="about_text">Sudoku Solver è un\'applicazione pensata per risolvere sudoku di media e bassa difficoltà. Al momento è in Alpha-Stage e utilizza solo il backtrack come algoritmo di risoluzione, ma ne verranno presto aggiunti altri.\n\nPer informazioni o suggerimenti visitate http://android.drowne.com</string>
+	<string name="game_title">Sudoku</string>
+	<string name="no_moves_label">Nessuna Mossa</string>
+	<string name="keypad_title">Inserisci:</string>
+	<string name="solve_label">Risolvi</string>
+	<string name="restart_label">Pulisci</string>
+	<string name="result">SUDOKU RISOLTO! Backtracks:</string>
+	<string name="noresult">Nessuna soluzione trovata! T_T</string>
+	
+</resources>
